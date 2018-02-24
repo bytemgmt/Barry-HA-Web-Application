@@ -1,0 +1,16 @@
+body {
+	background:cornsilk;
+	font-family: Arial;
+	color:darkcyan;
+}
+h1, h2, h3, {
+	color:saddlebrown;
+}
+ul li {
+	color:darkgoldenrod;
+}
+a {
+	background:cornsilk;
+	font-family: Arial;
+	color:rosybrown;
+}
